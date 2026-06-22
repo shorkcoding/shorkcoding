@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=27F700&width=600&lines=Xin+chào,+mình+là+Bùi+Ngọc+Thái+👋;Sinh+viên+IT+tại+PTIT;Đam+mê+Cấu+trúc+dữ+liệu+&+Giải+thuật!" alt="Typing SVG" />
+</p>
 <div data-importer="image" align="center">
   <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
