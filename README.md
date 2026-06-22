@@ -97,10 +97,10 @@
 
 ###
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shorkcoding/shorkcoding/pacman-output/puzzle-bobble-contribution-graph-dark.svg?game=puzzle-bobble">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shorkcoding/shorkcoding/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shorkcoding/shorkcoding/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/pacman-output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
 ###
