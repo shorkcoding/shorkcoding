@@ -5,10 +5,10 @@
 ###
 
 <div data-importer="socials" align="center">
-  <a href="https://www.linkedin.com/in/[LINK_LINKEDIN_CỦA_BẠN]/" target="_blank">
+  <a href="https://www.linkedin.com/in/shorkcoding/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/[USERNAME_TWITTER_CỦA_BẠN]" target="_blank">
+  <a href="https://x.com/ShorkCoding" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
 </div>
@@ -16,7 +16,7 @@
 ###
 
 <div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=[USERNAME_GITHUB_CỦA_BẠN].[USERNAME_GITHUB_CỦA_BẠN]&"  />
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=shorkcoding.shorkcoding&"  />
 </div>
 
 ###
