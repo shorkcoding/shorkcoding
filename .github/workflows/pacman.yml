@@ -1,0 +1,30 @@
+name: Generate Arcade Games
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # Tự động chạy mỗi 12 tiếng
+  workflow_dispatch: # Cho phép bạn bấm chạy thủ công
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Generate contribution graphs
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: 'pacman,puzzle-bobble'
+
+      - name: Push to pacman-output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: pacman-output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
