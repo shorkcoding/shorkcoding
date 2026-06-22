@@ -33,9 +33,7 @@
 
 ###
 
-<div data-importer="image" align="center">
-  <a href="https://ibb.co/JWgJqCBB"><img src="https://i.ibb.co/V054x3jj/z6565171122423-b0295732abc99febaf8848b1c44c73da.jpg" alt="z6565171122423-b0295732abc99febaf8848b1c44c73da" border="0"></a>
-</div>
+<a href="https://ibb.co/JWgJqCBB"><img src="https://i.ibb.co/JWgJqCBB/z6565171122423-b0295732abc99febaf8848b1c44c73da.jpg" alt="z6565171122423-b0295732abc99febaf8848b1c44c73da" border="0"></a>
 
 ###
 
