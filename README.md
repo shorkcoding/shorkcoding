@@ -98,9 +98,9 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME_GITHUB_CỦA_BẠN]/[USERNAME_GITHUB_CỦA_BẠN]/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME_GITHUB_CỦA_BẠN]/[USERNAME_GITHUB_CỦA_BẠN]/pacman-output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/[USERNAME_GITHUB_CỦA_BẠN]/[USERNAME_GITHUB_CỦA_BẠN]/pacman-output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shorkcoding/shorkcoding/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shorkcoding/shorkcoding/pacman-output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/shorkcoding/shorkcoding/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
 ###
