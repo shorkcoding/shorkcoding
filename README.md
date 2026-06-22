@@ -5,10 +5,10 @@
 ###
 
 <div data-importer="socials" align="center">
-  <a href="https://www.linkedin.com/in/shorkcoding/" target="_blank">
+  <a href="https://www.linkedin.com/in/[LINK_LINKEDIN_CỦA_BẠN]/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/ShorkCoding" target="_blank">
+  <a href="https://x.com/[USERNAME_TWITTER_CỦA_BẠN]" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
 </div>
@@ -16,12 +16,12 @@
 ###
 
 <div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=shorkcoding.shorkcoding&"  />
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=[USERNAME_GITHUB_CỦA_BẠN].[USERNAME_GITHUB_CỦA_BẠN]&"  />
 </div>
 
 ###
 
-<h3 data-importer="text" align="left">👩‍💻  Về bản thân mình | About Me</h3>
+<h3 data-importer="text" align="left">👩‍💻 Về bản thân mình | About Me</h3>
 
 ###
 
@@ -34,7 +34,7 @@
 ###
 
 <div data-importer="image" align="center">
-  <a href="https://ibb.co/JWgJqCBB"><img src="https://i.ibb.co/JWgJqCBB/z6565171122423-b0295732abc99febaf8848b1c44c73da.jpg" alt="z6565171122423-b0295732abc99febaf8848b1c44c73da" border="0"></a>
+  <a href="https://ibb.co/JWgJqCBB"><img src="https://i.ibb.co/JWgJqCBB/z6565171122423-b0295732abc99febaf8848b1c44c73da.jpg" alt="Ảnh cá nhân" border="0"></a>
 </div>
 
 ###
@@ -89,26 +89,24 @@
 
 ###
 
-<h3 data-importer="text" align="left">💾 Sản phẩm cảu bản thân | My Projects</h3>
+<h3 data-importer="text" align="left">💾 Sản phẩm của bản thân | My Projects</h3>
 
 ###
 
-<h3 data-importer="text" align="left">🔥   My Stats :</h3>
+<h3 data-importer="text" align="left">🔥 My Stats :</h3>
 
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/pacman-output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/pacman-output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME_GITHUB_CỦA_BẠN]/[USERNAME_GITHUB_CỦA_BẠN]/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME_GITHUB_CỦA_BẠN]/[USERNAME_GITHUB_CỦA_BẠN]/pacman-output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/[USERNAME_GITHUB_CỦA_BẠN]/[USERNAME_GITHUB_CỦA_BẠN]/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
 ###
 
 <div data-importer="music" align="center">
-  <a href="https://open.spotify.com/user/31wnzbdvysiinrwwgocymjsigu64">
+  <a href="https://open.spotify.com/user/31wnzbdvysiinrwwgocymjsigu64" target="_blank">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31wnzbdvysiinrwwgocymjsigu64&count=5" alt="Spotify recently played"  />
   </a>
 </div>
-
-###
